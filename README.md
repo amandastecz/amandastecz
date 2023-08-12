@@ -3,15 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Stecz-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/diego-schell-fernandes/](https://www.linkedin.com/in/amanda-c-stecz-antunes-2b298b123/))](https://www.linkedin.com/in/amanda-c-stecz-antunes-2b298b123/)
 [![Gmail Badge](https://img.shields.io/badge/-amandasstecz@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandassteczgmail.com)](mailto:amandasstecz@gmail.com)
 
-- Software Quality Engineer.
-- Education: Bachelor's Degree Computer Science.
-- Experience: 6 years as a QA.
+- ✨ Software Quality Engineer, with a focus on automation.
+- ✨ Education: Bachelor's Degree in Computer Science.
+- ✨ Experience: 6 years as a QA.
 
 ⚡ Technical Knowledge:
 
 - Languages: Typescript, Javascript.
 - Automation Frameworks: Cypress, TestCafe, Jest, Supertest, Postman.
-- CI/CD Tools: Jenkins, Kubernetes.
+- CI/CD Tools: Jenkins, Kubernetes, GitHub Actions.
 - Container: Docker.
 - Cloud: AWS.
 - Task management: Azure Devops, Monday, ORA, Kanbanize.
