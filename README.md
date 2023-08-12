@@ -7,17 +7,6 @@
 - ✨ Education: Bachelor's Degree in Computer Science.
 - ✨ Experience: 6 years as a QA.
 
-⚡ Technical Knowledge:
-
-- Languages: Typescript, Javascript.
-- Automation Frameworks: Cypress, TestCafe, Jest, Supertest, Postman.
-- CI/CD Tools: Jenkins, Kubernetes, GitHub Actions.
-- Container: Docker.
-- Cloud: AWS.
-- Task management: Azure Devops, Monday, ORA, Kanbanize.
-- Version Control: GitHub, Gitlab.
-- Database: MongoDB, Postgres, MySQL.
-
 💬 "Without commitment, you’ll never start, but more importantly, without consistency, you’ll never finish." - Denzel Washington⁣ 
 
 
