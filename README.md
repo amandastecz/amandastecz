@@ -1,4 +1,4 @@
-# Amanda C. Stecz Antunes
+### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Stecz-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/diego-schell-fernandes/](https://www.linkedin.com/in/amanda-c-stecz-antunes-2b298b123/))](https://www.linkedin.com/in/amanda-c-stecz-antunes-2b298b123/)
 
