@@ -4,6 +4,6 @@
 
 - ✨ Software Development Engineer in Test (SDET), with a focus on automation.
 - ✨ Education: Bachelor's Degree in Computer Science.
-- ✨ Experience: 6 years as a QA.
+- ✨ Experience: 8 years as a QA.
 
 💬 "Without commitment, you’ll never start, but more importantly, without consistency, you’ll never finish." - Denzel Washington⁣ 
